@@ -1,0 +1,22 @@
+.bg4 {
+  list-style-type: none;
+}
+
+.btn {
+  border-bottom: 2px solid #7b8794;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 20px;
+  background-color: transparent;
+  outline: none;
+  color: #7b8794;
+  cursor: pointer;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.btn2 {
+  color: #2563eb;
+  border-color: #2563eb;
+}
